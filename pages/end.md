@@ -8,12 +8,12 @@ transition: blur-in
 
 <div class="card pl-12 mt-4">
 
-- 狀態下移
-- 內容上移
-- 參考值的記憶化 - useMemo 與 useCallback 的陷阱
-- 組件的記憶化 - React.memo 的陷阱
-- 如何正確設計 Context？Context 重新渲染的真相
-- React Compiler 實際場景的應用
+1. 狀態下移
+2. 內容上移
+3. 參考值的記憶化 - useMemo 與 useCallback 的陷阱
+4. 組件的記憶化 - React.memo 的陷阱
+5. 如何正確設計 Context？Context 重新渲染的真相
+6. React Compiler 實際場景的應用
 
 </div>
 
@@ -33,7 +33,7 @@ layout: center
 ---
 
 <div class="card w-full h-full flex items-center justify-center">
-  <img src="/promote.png" class="block w-4/5 aspect-16/9 object-contain rounded-[4px] shadow-xl shadow-black/60" />
+  <img src="/promote-qrcode.png" class="block w-4/5 aspect-16/9 object-contain rounded-[4px] shadow-xl shadow-black/60" />
 </div>
 
 <!--
@@ -47,13 +47,9 @@ layout: center
 
 所以這堂課，就是想把我這幾年的經驗，整理成一堂 Junior 到 Senior 的路徑
 
-包括怎麼設定方向、管理目標、升遷跳槽等等
+如果你目前想提升自己但沒有麼方向，可以先來聽聽免費的體驗課，我會帶著大家規劃明年度的目標，也會分享現在 AI 發展之下，工程師應該優先培養哪些能力
 
-以及如何在職場上溝通、自我行銷、怎麼有效解決問題，這個部分在未來 AI 越來越強的情況下，會變成最重要的技能
-
-還有硬技術，包括今天內容的延伸、Next 專案的實作、前端的測試要怎麼寫等等，都會帶你了解
-
-有興趣的，可以先來聽體驗課，體驗課是免費的，可以掃 QR code 就可以免費報名啦！
+那體驗課是免費的，可以掃 QR code 就可以免費報名啦！
 
 好，那最後的時間，我們就來 QA 吧！
 -->
