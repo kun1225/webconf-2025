@@ -10,10 +10,11 @@ transition: blur-in
 
 1. 狀態下移
 2. 內容上移
-3. 參考值的記憶化 - useMemo 與 useCallback 的陷阱
-4. 組件的記憶化 - React.memo 的陷阱
-5. 如何正確設計 Context？Context 重新渲染的真相
-6. React Compiler 實際場景的應用
+3. 狀態保留
+4. 參考值的記憶化 - useMemo 與 useCallback 的陷阱
+5. 組件的記憶化 - React.memo 的陷阱
+6. 如何正確設計 Context？Context 重新渲染的真相
+7. React Compiler 實際場景的應用
 
 </div>
 
